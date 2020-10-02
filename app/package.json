@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.11.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.7.2",
+    "@react-navigation/native": "^5.6.1",
+    "@react-navigation/stack": "^5.6.2",
+    "@types/jwt-decode": "^2.2.1",
+    "@types/lodash": "^4.14.158",
+    "@types/react-redux": "^7.1.9",
+    "axios": "^0.19.2",
+    "expo": "~38.0.0",
+    "expo-font": "~8.2.1",
+    "expo-image-picker": "~8.3.0",
+    "expo-notifications": "~0.3.3",
+    "expo-web-browser": "~8.3.1",
+    "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "query-string": "^6.13.1",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-reanimated": "~1.9.0",
+    "react-native-safe-area-context": "~3.0.7",
+    "react-native-screens": "~2.9.0",
+    "react-native-web": "0.11.7",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.9.0",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "~16.9.8",
+    "@types/react-native": "~0.62.13",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "typescript": "~3.8.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo web",
+    "eject": "expo eject"
+  },
+  "private": true
+}
